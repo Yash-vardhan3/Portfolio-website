@@ -335,6 +335,9 @@ img {
 .skills__img {
   border-radius: 0.5rem;
 }
+.skills__img {
+    border-radius: 10px; /* Adjust the value to control the roundness of the corners */
+}
 
 /* ===== WORK =====*/
 .work__container {
